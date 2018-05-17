@@ -56,8 +56,7 @@
   <string name="battery_light_list_title">Spalvos</string>
   <string name="battery_light_low_color_title">Akumuliatorius senka</string>
   <string name="battery_light_medium_color_title">Įkraunama</string>
-  <string name="battery_light_full_color_title">Įkrauta (90%)</string>
-  <string name="battery_light_really_full_color_title">Įkrauta (100%)</string>
+  <string name="battery_light_full_color_title">Įkrauta (95%)</string>
   <string name="notification_light_title">Pranešimo šviesa</string>
   <string name="notification_light_general_title">Bendra</string>
   <string name="notification_light_applist_title">Programos</string>

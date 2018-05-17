@@ -56,8 +56,7 @@
   <string name="battery_light_list_title">Кольори</string>
   <string name="battery_light_low_color_title">Батарея розряджена</string>
   <string name="battery_light_medium_color_title">Заряджається</string>
-  <string name="battery_light_full_color_title">Заряджено (90%)</string>
-  <string name="battery_light_really_full_color_title">Заряджено (100%)</string>
+  <string name="battery_light_full_color_title">Заряджено (95%)</string>
   <string name="notification_light_title">Індикатор подій</string>
   <string name="notification_light_general_title">Основні</string>
   <string name="notification_light_applist_title">Додатки</string>

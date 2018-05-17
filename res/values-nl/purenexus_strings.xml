@@ -56,8 +56,7 @@
   <string name="battery_light_list_title">Kleuren</string>
   <string name="battery_light_low_color_title">Lage accu</string>
   <string name="battery_light_medium_color_title">Opladen</string>
-  <string name="battery_light_full_color_title">Opgeladen (90%)</string>
-  <string name="battery_light_really_full_color_title">Opgeladen (100%)</string>
+  <string name="battery_light_full_color_title">Opgeladen (95%)</string>
   <string name="notification_light_title">Meldingslicht</string>
   <string name="notification_light_general_title">Algemeen</string>
   <string name="notification_light_applist_title">Apps</string>

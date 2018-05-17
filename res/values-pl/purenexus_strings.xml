@@ -56,8 +56,7 @@
   <string name="battery_light_list_title">Kolory</string>
   <string name="battery_light_low_color_title">Niski poziom baterii</string>
   <string name="battery_light_medium_color_title">Ładowanie</string>
-  <string name="battery_light_full_color_title">Naładowana (90%)</string>
-  <string name="battery_light_really_full_color_title">Naładowana (100%)</string>
+  <string name="battery_light_full_color_title">Naładowana (95%)</string>
   <string name="notification_light_title">Dioda powiadomień</string>
   <string name="notification_light_general_title">Ogólne</string>
   <string name="notification_light_applist_title">Aplikacje</string>

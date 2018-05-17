@@ -56,8 +56,7 @@
   <string name="battery_light_list_title">Cores</string>
   <string name="battery_light_low_color_title">Bateria fraca</string>
   <string name="battery_light_medium_color_title">Carregando</string>
-  <string name="battery_light_full_color_title">Carregada (90%)</string>
-  <string name="battery_light_really_full_color_title">Carregada (100%)</string>
+  <string name="battery_light_full_color_title">Carregada (95%)</string>
   <string name="notification_light_title">Luz de notificação</string>
   <string name="notification_light_general_title">Geral</string>
   <string name="notification_light_applist_title">Aplicativos</string>

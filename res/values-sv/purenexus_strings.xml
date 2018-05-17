@@ -56,8 +56,7 @@
   <string name="battery_light_list_title">Färger</string>
   <string name="battery_light_low_color_title">Låg batterinivå</string>
   <string name="battery_light_medium_color_title">Laddas</string>
-  <string name="battery_light_full_color_title">Laddad (90%)</string>
-  <string name="battery_light_really_full_color_title">Laddad (100%)</string>
+  <string name="battery_light_full_color_title">Laddad (95%)</string>
   <string name="notification_light_title">Notifieringsljus</string>
   <string name="notification_light_general_title">Allmänt</string>
   <string name="notification_light_applist_title">Appar</string>

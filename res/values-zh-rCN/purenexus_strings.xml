@@ -56,8 +56,7 @@
   <string name="battery_light_list_title">颜色</string>
   <string name="battery_light_low_color_title">低电量</string>
   <string name="battery_light_medium_color_title">正在充电</string>
-  <string name="battery_light_full_color_title">充电完成 (90%)</string>
-  <string name="battery_light_really_full_color_title">充电完成 (100%)</string>
+  <string name="battery_light_full_color_title">充电完成 (95%)</string>
   <string name="notification_light_title">通知指示灯</string>
   <string name="notification_light_general_title">通用设置</string>
   <string name="notification_light_applist_title">应用</string>

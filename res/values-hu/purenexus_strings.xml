@@ -56,8 +56,7 @@
   <string name="battery_light_list_title">Színek</string>
   <string name="battery_light_low_color_title">Alacsony akkumulátorszint</string>
   <string name="battery_light_medium_color_title">Töltés</string>
-  <string name="battery_light_full_color_title">Feltöltve (90%)</string>
-  <string name="battery_light_really_full_color_title">Feltöltve (100%)</string>
+  <string name="battery_light_full_color_title">Feltöltve (95%)</string>
   <string name="notification_light_title">Értesítési fény</string>
   <string name="notification_light_general_title">Általános</string>
   <string name="notification_light_applist_title">Alkalmazások</string>

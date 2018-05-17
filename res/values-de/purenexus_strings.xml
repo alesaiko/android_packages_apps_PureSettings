@@ -56,8 +56,7 @@
   <string name="battery_light_list_title">Farben</string>
   <string name="battery_light_low_color_title">Akkustand niedrig</string>
   <string name="battery_light_medium_color_title">Aufladen</string>
-  <string name="battery_light_full_color_title">Geladen (90%)</string>
-  <string name="battery_light_really_full_color_title">Voll geladen (100%)</string>
+  <string name="battery_light_full_color_title">Geladen (95%)</string>
   <string name="notification_light_title">Benachrichtigungs-LED</string>
   <string name="notification_light_general_title">Allgemein</string>
   <string name="notification_light_applist_title">Apps</string>

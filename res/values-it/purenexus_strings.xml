@@ -56,8 +56,7 @@
   <string name="battery_light_list_title">Colori</string>
   <string name="battery_light_low_color_title">Batteria quasi scarica</string>
   <string name="battery_light_medium_color_title">In carica</string>
-  <string name="battery_light_full_color_title">Carico (90%)</string>
-  <string name="battery_light_really_full_color_title">Carico (100%)</string>
+  <string name="battery_light_full_color_title">Carico (95%)</string>
   <string name="notification_light_title">Luce di notifica</string>
   <string name="notification_light_general_title">Generale</string>
   <string name="notification_light_applist_title">Applicazioni</string>

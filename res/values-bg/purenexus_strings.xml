@@ -56,8 +56,7 @@
   <string name="battery_light_list_title">Цветове</string>
   <string name="battery_light_low_color_title">Изтощена батерия</string>
   <string name="battery_light_medium_color_title">Зареждане</string>
-  <string name="battery_light_full_color_title">Заредена (90%)</string>
-  <string name="battery_light_really_full_color_title">Заредена (100%)</string>
+  <string name="battery_light_full_color_title">Заредена (95%)</string>
   <string name="notification_light_title">Светлина за известията</string>
   <string name="notification_light_general_title">Основни</string>
   <string name="notification_light_applist_title">Приложения</string>

@@ -56,8 +56,7 @@
   <string name="battery_light_list_title">Renkler</string>
   <string name="battery_light_low_color_title">Pil zayıf</string>
   <string name="battery_light_medium_color_title">Şarj ediliyor</string>
-  <string name="battery_light_full_color_title">Şarj oldu (90%)</string>
-  <string name="battery_light_really_full_color_title">Şarj edildi (100%)</string>
+  <string name="battery_light_full_color_title">Şarj oldu (95%)</string>
   <string name="notification_light_title">Bildirim ışığı</string>
   <string name="notification_light_general_title">Genel</string>
   <string name="notification_light_applist_title">Uygulamalar</string>

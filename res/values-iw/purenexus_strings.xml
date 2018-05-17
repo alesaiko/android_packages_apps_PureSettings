@@ -56,8 +56,7 @@
   <string name="battery_light_list_title">צבעים</string>
   <string name="battery_light_low_color_title">סוללה חלשה</string>
   <string name="battery_light_medium_color_title">בטעינה</string>
-  <string name="battery_light_full_color_title">טעון (90%)</string>
-  <string name="battery_light_really_full_color_title">טעון (100%)</string>
+  <string name="battery_light_full_color_title">טעון (95%)</string>
   <string name="notification_light_title">תאורת התראה</string>
   <string name="notification_light_general_title">כללי</string>
   <string name="notification_light_applist_title">אפליקציות</string>

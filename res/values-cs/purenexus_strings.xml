@@ -56,8 +56,7 @@
   <string name="battery_light_list_title">Barvy</string>
   <string name="battery_light_low_color_title">Slabá baterie</string>
   <string name="battery_light_medium_color_title">Nabíjení</string>
-  <string name="battery_light_full_color_title">Nabito (90%)</string>
-  <string name="battery_light_really_full_color_title">Nabito (100%)</string>
+  <string name="battery_light_full_color_title">Nabito (95%)</string>
   <string name="notification_light_title">Notifikace</string>
   <string name="notification_light_general_title">Obecné</string>
   <string name="notification_light_applist_title">Aplikace</string>
